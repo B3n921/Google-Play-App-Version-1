@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.reeejfkgkhlgssj"
+    versionCode = "10"
+    version     = "9.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Rocket League Garage V2</name>
+
+  <description>
+     This Is An App
+  </description>
+
+  <author href="https://sites.google.com/view/rltradetips/home" email="benkirk1441@gmail.com">
+     Ben Kirk
+  </author>
+
+<icon src"icon.png" />
+
+</widget>
